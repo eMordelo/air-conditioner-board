@@ -2025,16 +2025,6 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 68.58) (xy 156.21 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28e772af-0821-4fdb-9325-49435c4ab39c")
-	)
-	(wire
-		(pts
 			(xy 34.29 40.64) (xy 36.83 40.64)
 		)
 		(stroke
@@ -2152,16 +2142,6 @@
 			(type default)
 		)
 		(uuid "52545407-5df0-4a77-86ec-768708557762")
-	)
-	(wire
-		(pts
-			(xy 153.67 45.72) (xy 156.21 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "544bf295-31d4-402c-81c0-92e53962c185")
 	)
 	(wire
 		(pts
@@ -2295,16 +2275,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 66.04) (xy 156.21 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9fa10ad3-95b7-4f7c-834b-43717d29a937")
-	)
-	(wire
-		(pts
 			(xy 146.05 30.48) (xy 156.21 30.48)
 		)
 		(stroke
@@ -2315,16 +2285,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 48.26) (xy 156.21 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6ea3ded-6f0c-4f32-ac90-74eea57f6eee")
-	)
-	(wire
-		(pts
 			(xy 245.11 60.96) (xy 245.11 52.07)
 		)
 		(stroke
@@ -2332,16 +2292,6 @@
 			(type default)
 		)
 		(uuid "a7fa318b-18a1-4c6b-bd65-b454ebb21cef")
-	)
-	(wire
-		(pts
-			(xy 153.67 63.5) (xy 156.21 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab664a43-e79a-492c-b70d-80b5f5040596")
 	)
 	(wire
 		(pts
@@ -2372,26 +2322,6 @@
 			(type default)
 		)
 		(uuid "bf902491-f216-47ae-b075-8d6cdef53365")
-	)
-	(wire
-		(pts
-			(xy 153.67 50.8) (xy 156.21 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c569f66c-997c-40d1-a82f-dc8fe9adea94")
-	)
-	(wire
-		(pts
-			(xy 146.05 68.58) (xy 146.05 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc2f280e-7502-4313-ae36-18f60e7d412e")
 	)
 	(wire
 		(pts
@@ -2435,16 +2365,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 50.8) (xy 146.05 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ef3a00c5-5d9d-4a98-ab98-841b1506fa22")
-	)
-	(wire
-		(pts
 			(xy 252.73 78.74) (xy 252.73 76.2)
 		)
 		(stroke
@@ -2474,16 +2394,6 @@
 		(uuid "fafd28d0-97ba-4be5-a732-6672ebd35e76")
 	)
 	(label "sterowane wyjście"
-		(at 153.67 45.72 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "23b05fdb-f5f5-4fe2-9fb7-4f8042bcd5e0")
-	)
-	(label "sterowane wyjście"
 		(at 153.67 27.94 180)
 		(effects
 			(font
@@ -2502,36 +2412,6 @@
 			(justify right bottom)
 		)
 		(uuid "73b220af-c709-4655-ae1f-41c8d85f025a")
-	)
-	(label "sterowane wyjście"
-		(at 153.67 63.5 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "75f78350-b954-4634-824d-e642b9e63bfd")
-	)
-	(label "protection"
-		(at 153.67 50.8 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a4e8bab2-3f2b-4e2d-8f72-63f9285d1005")
-	)
-	(label "protection"
-		(at 153.67 68.58 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a997d910-3b0a-46a7-b268-f7cbb12396d7")
 	)
 	(label "sterowane wyjście"
 		(at 81.28 78.74 0)
@@ -2704,73 +2584,6 @@
 			(project ""
 				(path "/e158d780-a4af-49fc-a6a2-d26b01f74f63/c157048c-b20b-4a97-80ad-b208f758b5bd"
 					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 146.05 50.8 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "23419dda-6e57-4049-9fec-81527a4d7910")
-		(property "Reference" "#PWR024"
-			(at 146.05 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "NEUTRAL"
-			(at 146.05 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 146.05 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 146.05 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 146.05 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "82008178-f196-4fcb-903d-962930051d81")
-		)
-		(instances
-			(project "air-conditioner-board"
-				(path "/e158d780-a4af-49fc-a6a2-d26b01f74f63/c157048c-b20b-4a97-80ad-b208f758b5bd"
-					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -3628,79 +3441,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_XINYA:TBG-5.0-KW-3P")
-		(at 161.29 48.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a059d767-8cc0-4a82-9667-29e0af2b4586")
-		(property "Reference" "J6"
-			(at 165.1 47.6249 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 165.1 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_JOINT_TECH:TBG-5.0-KW-3P"
-			(at 162.56 55.372 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.tme.eu/Document/198a72a276ec88de27ac8876a24640b6/XY2500R-B.pdf"
-			(at 162.56 55.372 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Złącze: listwa zaciskowa rozłączalna; gniazdo; męskie; 15A; 300V"
-			(at 162.56 55.372 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "a18bb12d-a133-443d-a191-3cf1146c9979")
-		)
-		(pin "1"
-			(uuid "0af8490c-4b55-42ef-91cf-65edf852d559")
-		)
-		(pin "2"
-			(uuid "bac9d001-e623-46f6-ba52-9c8c8fa216bf")
-		)
-		(instances
-			(project "air-conditioner-board"
-				(path "/e158d780-a4af-49fc-a6a2-d26b01f74f63/c157048c-b20b-4a97-80ad-b208f758b5bd"
-					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 265.43 48.26 0)
 		(unit 1)
@@ -4308,146 +4048,6 @@
 			(project ""
 				(path "/e158d780-a4af-49fc-a6a2-d26b01f74f63/c157048c-b20b-4a97-80ad-b208f758b5bd"
 					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_XINYA:TBG-5.0-KW-3P")
-		(at 161.29 66.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fbf7d18b-c242-43d0-8779-571be31d466f")
-		(property "Reference" "J7"
-			(at 165.1 65.4049 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 165.1 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_JOINT_TECH:TBG-5.0-KW-3P"
-			(at 162.56 73.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.tme.eu/Document/198a72a276ec88de27ac8876a24640b6/XY2500R-B.pdf"
-			(at 162.56 73.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Złącze: listwa zaciskowa rozłączalna; gniazdo; męskie; 15A; 300V"
-			(at 162.56 73.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "02627e11-660b-4dda-8a32-54c0837dd67b")
-		)
-		(pin "1"
-			(uuid "58cd2ceb-6c78-45d6-82c6-f592119ae9d3")
-		)
-		(pin "2"
-			(uuid "6707244c-d230-4ec9-bd92-ef49d863efc7")
-		)
-		(instances
-			(project "air-conditioner-board"
-				(path "/e158d780-a4af-49fc-a6a2-d26b01f74f63/c157048c-b20b-4a97-80ad-b208f758b5bd"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 146.05 68.58 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fc282f69-fdf9-4932-b1b1-6ced6380577a")
-		(property "Reference" "#PWR025"
-			(at 146.05 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "NEUTRAL"
-			(at 146.05 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 146.05 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 146.05 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 146.05 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cdc4ecc6-d011-4465-ac25-982f83cbbabc")
-		)
-		(instances
-			(project "air-conditioner-board"
-				(path "/e158d780-a4af-49fc-a6a2-d26b01f74f63/c157048c-b20b-4a97-80ad-b208f758b5bd"
-					(reference "#PWR025")
 					(unit 1)
 				)
 			)
