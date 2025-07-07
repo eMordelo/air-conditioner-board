@@ -2657,7 +2657,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 245.11 48.26 0)
+		(at 265.43 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2666,7 +2666,7 @@
 		(fields_autoplaced yes)
 		(uuid "34d68c53-bbb6-41b4-85c7-41d7c0cb7735")
 		(property "Reference" "R13"
-			(at 247.65 46.9899 0)
+			(at 267.97 46.9899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2675,7 +2675,7 @@
 			)
 		)
 		(property "Value" "47kΩ"
-			(at 247.65 49.5299 0)
+			(at 267.97 49.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2684,7 +2684,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
-			(at 243.332 48.26 90)
+			(at 263.652 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2693,7 +2693,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 245.11 48.26 0)
+			(at 265.43 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2702,7 +2702,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 245.11 48.26 0)
+			(at 265.43 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3442,7 +3442,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 265.43 48.26 0)
+		(at 245.11 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3451,7 +3451,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1298e34-6f49-4d27-a854-09ff8909f152")
 		(property "Reference" "R14"
-			(at 267.97 46.9899 0)
+			(at 247.65 46.9899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3460,7 +3460,7 @@
 			)
 		)
 		(property "Value" "47kΩ"
-			(at 267.97 49.5299 0)
+			(at 247.65 49.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3469,7 +3469,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
-			(at 263.652 48.26 90)
+			(at 243.332 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3478,7 +3478,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 265.43 48.26 0)
+			(at 245.11 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3487,7 +3487,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 265.43 48.26 0)
+			(at 245.11 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
