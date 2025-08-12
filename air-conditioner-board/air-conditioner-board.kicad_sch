@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "air conditioner")
-		(date "2025-07-06")
-		(rev "0")
+		(date "2025-08-12")
+		(rev "1.1")
 	)
 	(lib_symbols
 		(symbol "Mechanical:MountingHole"
